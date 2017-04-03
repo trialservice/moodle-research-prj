@@ -1,3 +1,3 @@
 # moodle-research-prj
 
-Edit readme file.
+MOODLE RESEARCH PROJECT
